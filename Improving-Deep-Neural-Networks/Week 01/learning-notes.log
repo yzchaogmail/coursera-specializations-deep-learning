@@ -1,0 +1,7 @@
+1. 为什么模型会比较大？模型中主要有什么？
+    1.1. 算法()
+    1.2. 参数(W,b,sigmoid/relu)
+    1.3. 训练集？(nx,m)
+2. concept:
+      Why regularization reduces overfitting
+3.
